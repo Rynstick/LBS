@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "vitepress": "^1.0.0-beta.5"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev D:\\LBS\\LBSV1",
+    "docs:build": "vitepress build D:\\LBS\\LBSV1",
+    "docs:preview": "vitepress preview D:\\LBS\\LBSV1"
+  }
+}
