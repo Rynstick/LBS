@@ -23,3 +23,5 @@ Each function is thoroughly documented, including descriptions, data type specif
 ## Languages Used
 
 This project is primarily written in **JavaScript**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
