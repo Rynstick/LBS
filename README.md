@@ -19,3 +19,7 @@ Database operations functions are designed to interact with databases. They can 
 These utility functions don't fall into the other categories, but they still offer value for various programming tasks. For example, the `getRandomNumber` function generates a random number within a specified range.
 
 Each function is thoroughly documented, including descriptions, data type specifications, examples, and returns. This makes LBS an easily accessible and user-friendly tool for developers working with WinCC Unified.
+
+## Languages Used
+
+This project is primarily written in **JavaScript**
