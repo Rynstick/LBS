@@ -29,6 +29,8 @@ Each function is thoroughly documented, including descriptions, data type specif
 
 ![slider](https://github.com/Rynstick/LBS/assets/122405082/cb82e396-3418-4b2b-a22a-88b2ac3e3a99)
 
+and much more !....
+
 
 
 ## Languages Used
