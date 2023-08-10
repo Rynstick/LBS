@@ -25,6 +25,8 @@ Each function is thoroughly documented, including descriptions, data type specif
 ![PieChartV1](https://github.com/Rynstick/LBS/assets/122405082/9217c73e-53f2-4fb8-b5f3-ea2d3dd00909)
 ![ProgressBarV2](https://github.com/Rynstick/LBS/assets/122405082/e9ae1a89-5b33-4f6b-825c-a05c9844a3fe)
 ![slider](https://github.com/Rynstick/LBS/assets/122405082/cb82e396-3418-4b2b-a22a-88b2ac3e3a99)
+![switchButton](https://github.com/Rynstick/LBS/assets/122405082/e471812b-a13a-4e46-9ed0-dc9b5b55e8d0)
+![GaugeV3](https://github.com/Rynstick/LBS/assets/122405082/53448426-ab8b-4cb8-a90a-06f9b6f0e506)
 
 
 ## Languages Used
